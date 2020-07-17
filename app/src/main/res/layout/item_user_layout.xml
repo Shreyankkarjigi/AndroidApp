@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="#000000"
+    android:backgroundTint="#000000"
+    android:fadeScrollbars="true"
+    android:orientation="vertical"
+    android:overScrollMode="never"
+    android:paddingTop="100dp"
+    android:scrollbarAlwaysDrawHorizontalTrack="true"
+    android:scrollbarSize="20dp"
+    android:scrollbarStyle="outsideInset"
+    app:cardBackgroundColor="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <ImageView
+            android:id="@+id/imgUser"
+            android:layout_width="99dp"
+            android:layout_height="match_parent"
+
+            android:adjustViewBounds="true"
+            android:background="#FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:contentDescription="@string/todo"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bk_image"
+            android:visibility="visible"
+            app:srcCompat="@drawable/logo_p"
+            tools:srcCompat="@drawable/logo_p"
+            tools:visibility="visible" />
+
+        <LinearLayout
+            android:layout_width="303dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="#DF000000"
+            android:backgroundTint="#DF000000"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/txtUser"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="295dp"
+                android:layout_height="41dp"
+                android:layout_gravity="center_vertical"
+                android:background="#DF000000"
+                android:fontFamily="@font/michroma"
+                android:gravity="center"
+                android:text="@string/name"
+                android:textColor="#FDFDFD" />
+
+            <TextView
+                android:id="@+id/salUser"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="292dp"
+                android:layout_height="57dp"
+                android:layout_marginEnd="40dp"
+                android:background="#DF000000"
+                android:fontFamily="@font/michroma"
+                android:gravity="center"
+                android:text="@string/salary"
+                android:textColor="#FFFFFF"
+                android:textColorHighlight="#08FFFFFF"
+                android:textColorHint="#08FFFFFF"
+                android:textColorLink="#08FFFFFF" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

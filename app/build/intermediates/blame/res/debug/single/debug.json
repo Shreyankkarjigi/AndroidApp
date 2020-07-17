@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_item_user_layout.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout-land\\item_user_layout.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_martel_sans_extrabold.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\martel_sans_extrabold.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_oswald_bold.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\oswald_bold.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_image.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\logo_image.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\bungee.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_oswald_light.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\oswald_light.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_afterlogin.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_afterlogin.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_main.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_login_main.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_graduate.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\graduate.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_drawable_1.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-anydpi-v26\\drawable_1.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bk_image.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\bk_image.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_atomic_age.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\atomic_age.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_database_helper.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_database_helper.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_get_rekt.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\get_rekt.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee_inline.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\bungee_inline.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_drawable_2.jpg.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable-v24\\drawable_2.jpg"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_layout.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\item_user_layout.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_michroma.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\michroma.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_stalinist_one.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\stalinist_one.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_p.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\logo_p.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_cherry_cream_soda.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\cherry_cream_soda.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_alternates.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\montserrat_alternates.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_image.jpg.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable\\new_image.jpg"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cam.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_cam.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_click.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_after_click.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_audiowide.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_paytone_one.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\paytone_one.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_ramabhadra.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\ramabhadra.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_drawable_1.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\drawable-v24\\drawable_1.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_progressbar.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_onclick.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\onclick.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_rubik_mono_one.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\rubik_mono_one.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Shreyank\\App02\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee_shade.xml.flat",
+        "source": "D:\\Shreyank\\App02\\app\\src\\main\\res\\font\\bungee_shade.xml"
+    }
+]

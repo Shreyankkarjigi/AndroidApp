@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.app_02"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the 'MyLocation' functionality.
+14    -->
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:9:5-65
+15-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:9:22-62
+16
+17    <uses-feature
+17-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:11:5-12:34
+18        android:name="android.hardware.camera"
+18-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:11:19-57
+19        android:required="true" />
+19-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:12:9-32
+20    <uses-feature android:name="android.hardware.camera.autofocus" />
+20-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:13:5-70
+20-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:13:19-67
+21
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:15:5-79
+22-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:15:22-76
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:16:5-67
+23-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:16:22-64
+24
+25    <!-- Include required permissions for Google Maps API to run. -->
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+31
+32    <application
+32-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:18:5-65:19
+33        android:allowBackup="true"
+33-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:19:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.1.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:extractNativeLibs="false"
+37        android:icon="@mipmap/ic_launcher"
+37-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:20:9-43
+38        android:label="@string/app_name"
+38-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:21:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:22:9-54
+40        android:supportsRtl="true"
+40-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:23:9-35
+41        android:theme="@style/AppTheme"
+41-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:24:9-40
+42        android:usesCleartextTraffic="true" >
+42-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:25:9-44
+43        <activity android:name="com.example.app_02.DatabaseHelper" />
+43-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:26:9-52
+43-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:26:19-49
+44        <activity android:name="com.example.app_02.register" />
+44-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:27:9-46
+44-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:27:19-43
+45        <activity android:name="com.example.app_02.cam" />
+45-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:28:9-41
+45-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:28:19-38
+46        <!--
+47             The API key for Google Maps-based APIs is defined as a string resource.
+48             (See the file "res/values/google_maps_api.xml").
+49             Note that the API key is linked to the encryption key used to sign the APK.
+50             You need a different API key for each encryption key, including the release key that is used to
+51             sign the APK for publishing.
+52             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+53        -->
+54        <meta-data
+54-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:37:9-39:55
+55            android:name="com.google.android.geo.API_KEY"
+55-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:38:13-58
+56            android:value="@string/google_maps_key" />
+56-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:39:13-52
+57
+58        <activity
+58-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:41:9-43:35
+59            android:name="com.example.app_02.map"
+59-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:42:13-32
+60            android:label="EMP" />
+60-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:43:13-32
+61        <activity
+61-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:44:9-53:20
+62            android:name="com.example.app_02.Splash"
+62-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:45:13-35
+63            android:label="EMP"
+63-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:46:13-32
+64            android:theme="@style/Theme.AppCompat.NoActionBar" >
+64-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:47:13-63
+65            <intent-filter>
+65-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:48:13-52:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:49:17-69
+66-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:49:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:51:17-77
+68-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:51:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity android:name="com.example.app_02.afterlogin" />
+71-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:54:9-48
+71-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:54:19-45
+72        <activity android:name="com.example.app_02.Progressbar" />
+72-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:55:9-49
+72-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:55:19-46
+73        <activity
+73-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:56:9-58:66
+74            android:name="com.example.app_02.Login"
+74-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:57:13-34
+75            android:theme="@style/Theme.AppCompat.NoActionBar" />
+75-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:58:13-63
+76        <activity android:name="com.example.app_02.MainActivity" />
+76-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:59:9-50
+76-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:59:19-47
+77        <activity android:name="com.example.app_02.onclickactivity" />
+77-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:60:9-53
+77-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:60:19-50
+78
+79        <meta-data
+79-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:62:9-64:57
+80            android:name="preloaded_fonts"
+80-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:63:13-43
+81            android:resource="@array/preloaded_fonts" />
+81-->D:\Shreyank\App02\app\src\main\AndroidManifest.xml:64:13-54
+82        <!-- Needs to be explicitly declared on P+ -->
+83        <uses-library
+83-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+84            android:name="org.apache.http.legacy"
+84-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+85            android:required="false" />
+85-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\cad243eba5d5e9d30aead8f2caf75568\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+86
+87        <activity
+87-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+88            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+88-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+89            android:exported="false"
+89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+90            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+91
+92        <meta-data
+92-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+93            android:name="com.google.android.gms.version"
+93-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+94            android:value="@integer/google_play_services_version" />
+94-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\andro\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+95    </application>
+96
+97</manifest>
